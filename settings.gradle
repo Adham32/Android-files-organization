@@ -1,0 +1,9 @@
+rootProject.name = "packages_template"
+include ':app'
+include ':common:core'
+include ':common:design'
+include ':common:translations'
+include ':features:account'
+include ':features:onboarding'
+include ':features:inthearea'
+include ':app2'
